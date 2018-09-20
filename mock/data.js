@@ -1,0 +1,2 @@
+exports.productList = []
+exports.orderList = []
